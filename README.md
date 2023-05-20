@@ -1,6 +1,6 @@
 # 👋 Hi
 
-![I am on Codeberg, Not Github](https://raw.githubusercontent.com/snowcatridge10/snowcatridge10/main/Untitled.svg)
+![I am on Codeberg, Not Github](https://raw.githubusercontent.com/ProgramminCat/ProgramminCat/main/Untitled.svg)
 
 #GiveUpGithub
 
